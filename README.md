@@ -57,53 +57,48 @@ Visual Studio Code 是微软推出的跨平台编辑器。它采用经典的VS�
 
 ## 正在翻译文章+作者
 
-* The Basics+Swizard
-* Editing Evolved+heshenghuan
-* C++ + imbaqian
-* Javascript+Styx
-* Markdown+Cherry Mill Wong
-* EXTENSIONS + bjrxyz
-* Version Control + Fallenwood
+* AllOfIt + Jeason
+
 ## 项目翻译目录
 
 * ~~[Overview](https://code.visualstudio.com/docs)~~
 
 * EDITOR
   * ~~[Setup](https://code.visualstudio.com/docs/editor/setup)~~
-  * [The Basics](https://code.visualstudio.com/docs/editor/codebasics)
-  * [Extension Marketplace](https://code.visualstudio.com/docs/editor/extension-gallery)
-  * [Editing Evolved](https://code.visualstudio.com/docs/editor/editingevolved)
-  * [Version Control](https://code.visualstudio.com/docs/editor/versioncontrol)
+  * ~~[The Basics](https://code.visualstudio.com/docs/editor/codebasics)~~
+  * ~~[Extension Marketplace](https://code.visualstudio.com/docs/editor/extension-gallery)~~
+  * ~~[Editing Evolved](https://code.visualstudio.com/docs/editor/editingevolved)~~
+  * ~~[Version Control](https://code.visualstudio.com/docs/editor/versioncontrol)~~
   * ~~[Debugging](https://code.visualstudio.com/docs/editor/debugging)~~
   * ~~[Tasks](https://code.visualstudio.com/docs/editor/tasks)~~
-  * [Accessibility](https://code.visualstudio.com/docs/editor/accessibility)
-  * [Why Vs Code](https://code.visualstudio.com/docs/editor/whyvscode)
+  * ~~[Accessibility](https://code.visualstudio.com/docs/editor/accessibility)~~
+  * ~~[Why Vs Code](https://code.visualstudio.com/docs/editor/whyvscode)~~
 
 * CUSTOMIZATION
-  * [Overview](https://code.visualstudio.com/docs/customization/overview)
-  * [User and Workspace Settings](https://code.visualstudio.com/docs/customization/userandworkspace)
-  * [Key Bindings](https://code.visualstudio.com/docs/customization/keybindings)
-  * [Snippets](https://code.visualstudio.com/docs/customization/userdefinedsnippets)
-  * [Colorizer](https://code.visualstudio.com/docs/customization/colorizer)
+  * ~~[Overview](https://code.visualstudio.com/docs/customization/overview)~~
+  * ~~[User and Workspace Settings](https://code.visualstudio.com/docs/customization/userandworkspace)~~
+  * ~~[Key Bindings](https://code.visualstudio.com/docs/customization/keybindings)~~
+  * ~~[Snippets](https://code.visualstudio.com/docs/customization/userdefinedsnippets)~~
+  * ~~[Colorizer](https://code.visualstudio.com/docs/customization/colorizer)~~
   * ~~[Themes](https://code.visualstudio.com/docs/customization/themes)~~
   * ~~[Display Language](https://code.visualstudio.com/docs/customization/locales)~~
 
 * LANGUAGES
-  * [Overview](https://code.visualstudio.com/docs/languages/overview)
-  * [JavaScript](https://code.visualstudio.com/docs/languages/javascript)
+  * ~~[Overview](https://code.visualstudio.com/docs/languages/overview)~~
+  * ~~[JavaScript](https://code.visualstudio.com/docs/languages/javascript)~~
   * ~~[C#](https://code.visualstudio.com/docs/languages/csharp)~~
-  * [C++](https://code.visualstudio.com/docs/languages/cpp)
-  * [JSON](https://code.visualstudio.com/docs/languages/json)
+  * ~~[C++](https://code.visualstudio.com/docs/languages/cpp)~~
+  * ~~[JSON](https://code.visualstudio.com/docs/languages/json)~~
   * ~~[HTML](https://code.visualstudio.com/docs/languages/html)~~
   * ~~[PHP](https://code.visualstudio.com/docs/languages/php)~~
-  * [Markdown](https://code.visualstudio.com/docs/languages/markdown)
+  * ~~[Markdown](https://code.visualstudio.com/docs/languages/markdown)~~
   * ~~[TypeScript](https://code.visualstudio.com/docs/languages/typescript)~~
-  * [CSS, Sass and Less](https://code.visualstudio.com/docs/languages/css)
+  * ~~[CSS, Sass and Less](https://code.visualstudio.com/docs/languages/css)~~
   * [Dockerfile](https://code.visualstudio.com/docs/languages/dockerfile)
 
 * RUNTIMES
-  * [Node.js](https://code.visualstudio.com/docs/runtimes/nodejs)
-  * [ASP.NET Core](https://code.visualstudio.com/docs/runtimes/ASPnet5)
+  * ~~[Node.js](https://code.visualstudio.com/docs/runtimes/nodejs)~~
+  * ~~[ASP.NET Core](https://code.visualstudio.com/docs/runtimes/ASPnet5)~~
   * [Unity](https://code.visualstudio.com/docs/runtimes/unity)
   * [Office](https://code.visualstudio.com/docs/runtimes/office)
 
@@ -115,13 +110,13 @@ Visual Studio Code 是微软推出的跨平台编辑器。它采用经典的VS�
   * ~~[Example - Debuggers](https://code.visualstudio.com/docs/extensions/example-debuggers)~~
   * [Principles and Patterns](https://code.visualstudio.com/docs/extensions/patterns-and-principles)
   * [Running and Debugging Your Extension](https://code.visualstudio.com/docs/extensions/debugging-extensions)
-  * [Installing Extensions](https://code.visualstudio.com/docs/extensions/install-extension)
+  * ~~[Installing Extensions](https://code.visualstudio.com/docs/extensions/install-extension)~~
   * [Testing Extension](https://code.visualstudio.com/docs/extensions/testing-extensions)
   * [Our Approach](https://code.visualstudio.com/docs/extensions/our-approach)
 
 * EXTENSIBILITY REFERENCE
-  * [Overview](https://code.visualstudio.com/docs/extensionAPI/overview)
-  * [Extension Manifest](https://code.visualstudio.com/docs/extensionAPI/extension-manifest)
+  * ~~[Overview](https://code.visualstudio.com/docs/extensionAPI/overview)~~
+  * ~~[Extension Manifest](https://code.visualstudio.com/docs/extensionAPI/extension-manifest)~~
   * [Contribution Points](https://code.visualstudio.com/docs/extensionAPI/extension-points)
   * [Activation Events](https://code.visualstudio.com/docs/extensionAPI/activation-events)
   * [API vscode namespace](https://code.visualstudio.com/docs/extensionAPI/vscode-api)
@@ -152,5 +147,12 @@ Visual Studio Code 是微软推出的跨平台编辑器。它采用经典的VS�
 - [Fallenwood](https://fallenwood.github.io)
 - [ickall](https://github.com/ickall)
 - [Albert C.](https://github.com/ccssooll999)
+- [Saier](https://github.com/279838089)
+- [iskcal](https://github.com/iskcal)
+
 
 （Fork 之后自行添加到最后）
+
+## 开源协议
+ 
+ - [MIT](LICENSE)
